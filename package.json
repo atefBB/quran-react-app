@@ -1,5 +1,6 @@
 {
   "name": "quran",
+  "homepage": "http://atefbb.github.io/quran-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
