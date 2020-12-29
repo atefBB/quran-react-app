@@ -1,6 +1,4 @@
-import React from 'react';
-
-import './App.css';
+import './assets/css/app.css';
 
 export default function App() {
   return (
