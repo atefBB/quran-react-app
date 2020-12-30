@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quran-react-app/static/css/main.f9fc4943.chunk.css",
-    "main.js": "/quran-react-app/static/js/main.0c690bc2.chunk.js",
-    "main.js.map": "/quran-react-app/static/js/main.0c690bc2.chunk.js.map",
+    "main.js": "/quran-react-app/static/js/main.306384f7.chunk.js",
+    "main.js.map": "/quran-react-app/static/js/main.306384f7.chunk.js.map",
     "runtime-main.js": "/quran-react-app/static/js/runtime-main.55fe8a7c.js",
     "runtime-main.js.map": "/quran-react-app/static/js/runtime-main.55fe8a7c.js.map",
     "static/css/2.1c42aa8c.chunk.css": "/quran-react-app/static/css/2.1c42aa8c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1c42aa8c.chunk.css",
     "static/js/2.d765e31d.chunk.js",
     "static/css/main.f9fc4943.chunk.css",
-    "static/js/main.0c690bc2.chunk.js"
+    "static/js/main.306384f7.chunk.js"
   ]
 }
