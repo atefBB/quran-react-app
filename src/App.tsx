@@ -21,7 +21,6 @@ export default function App() {
           onSlideChange={() => setCurrentPage(currentPage + 1)}
           onSwiper={(swiper: any) => {
             setCurrentPage(currentPage + 1);
-            console.log(currentPage);
           }}
         >
           {slides.map((el: any, index: number) => {
