@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/quran-react-app/static/css/main.f9fc4943.chunk.css",
-    "main.js": "/quran-react-app/static/js/main.306384f7.chunk.js",
-    "main.js.map": "/quran-react-app/static/js/main.306384f7.chunk.js.map",
-    "runtime-main.js": "/quran-react-app/static/js/runtime-main.55fe8a7c.js",
-    "runtime-main.js.map": "/quran-react-app/static/js/runtime-main.55fe8a7c.js.map",
-    "static/css/2.1c42aa8c.chunk.css": "/quran-react-app/static/css/2.1c42aa8c.chunk.css",
-    "static/js/2.d765e31d.chunk.js": "/quran-react-app/static/js/2.d765e31d.chunk.js",
-    "static/js/2.d765e31d.chunk.js.map": "/quran-react-app/static/js/2.d765e31d.chunk.js.map",
-    "static/js/3.5ee165ec.chunk.js": "/quran-react-app/static/js/3.5ee165ec.chunk.js",
-    "static/js/3.5ee165ec.chunk.js.map": "/quran-react-app/static/js/3.5ee165ec.chunk.js.map",
+    "main.css": "/quran-react-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/quran-react-app/static/js/main.808ed200.chunk.js",
+    "main.js.map": "/quran-react-app/static/js/main.808ed200.chunk.js.map",
+    "runtime-main.js": "/quran-react-app/static/js/runtime-main.e6c2327a.js",
+    "runtime-main.js.map": "/quran-react-app/static/js/runtime-main.e6c2327a.js.map",
+    "static/js/2.042cc91c.chunk.js": "/quran-react-app/static/js/2.042cc91c.chunk.js",
+    "static/js/2.042cc91c.chunk.js.map": "/quran-react-app/static/js/2.042cc91c.chunk.js.map",
+    "static/js/3.b1f0fd10.chunk.js": "/quran-react-app/static/js/3.b1f0fd10.chunk.js",
+    "static/js/3.b1f0fd10.chunk.js.map": "/quran-react-app/static/js/3.b1f0fd10.chunk.js.map",
     "index.html": "/quran-react-app/index.html",
-    "static/css/2.1c42aa8c.chunk.css.map": "/quran-react-app/static/css/2.1c42aa8c.chunk.css.map",
-    "static/css/main.f9fc4943.chunk.css.map": "/quran-react-app/static/css/main.f9fc4943.chunk.css.map",
-    "static/js/2.d765e31d.chunk.js.LICENSE.txt": "/quran-react-app/static/js/2.d765e31d.chunk.js.LICENSE.txt"
+    "static/css/main.6dea0f05.chunk.css.map": "/quran-react-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.042cc91c.chunk.js.LICENSE.txt": "/quran-react-app/static/js/2.042cc91c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.55fe8a7c.js",
-    "static/css/2.1c42aa8c.chunk.css",
-    "static/js/2.d765e31d.chunk.js",
-    "static/css/main.f9fc4943.chunk.css",
-    "static/js/main.306384f7.chunk.js"
+    "static/js/runtime-main.e6c2327a.js",
+    "static/js/2.042cc91c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.808ed200.chunk.js"
   ]
 }
