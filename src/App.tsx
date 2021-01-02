@@ -28,7 +28,7 @@ export default function App() {
               <SwiperSlide key={el} virtualIndex={index}>
                 <img
                   src={`${process.env.PUBLIC_URL}/assets/images/quran/${index}.png`}
-                  alt={`page ${currentPage}`}
+                  alt={`page ${index}`}
                 />
               </SwiperSlide>
             );
