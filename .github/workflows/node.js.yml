@@ -37,7 +37,7 @@ jobs:
       - name : Build website
         run: npm run build
 
-  deloy:
+  deploy:
     if: success()
     needs: [build]
     runs-on: ubuntu-latest
