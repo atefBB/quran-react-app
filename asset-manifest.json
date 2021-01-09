@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/quran-react-app/static/css/main.f9fc4943.chunk.css",
-    "main.js": "/quran-react-app/static/js/main.6c747024.chunk.js",
-    "main.js.map": "/quran-react-app/static/js/main.6c747024.chunk.js.map",
+    "main.css": "/quran-react-app/static/css/main.e0320e59.chunk.css",
+    "main.js": "/quran-react-app/static/js/main.6a986575.chunk.js",
+    "main.js.map": "/quran-react-app/static/js/main.6a986575.chunk.js.map",
     "runtime-main.js": "/quran-react-app/static/js/runtime-main.55fe8a7c.js",
     "runtime-main.js.map": "/quran-react-app/static/js/runtime-main.55fe8a7c.js.map",
     "static/css/2.1c42aa8c.chunk.css": "/quran-react-app/static/css/2.1c42aa8c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.5ee165ec.chunk.js.map": "/quran-react-app/static/js/3.5ee165ec.chunk.js.map",
     "index.html": "/quran-react-app/index.html",
     "static/css/2.1c42aa8c.chunk.css.map": "/quran-react-app/static/css/2.1c42aa8c.chunk.css.map",
-    "static/css/main.f9fc4943.chunk.css.map": "/quran-react-app/static/css/main.f9fc4943.chunk.css.map",
+    "static/css/main.e0320e59.chunk.css.map": "/quran-react-app/static/css/main.e0320e59.chunk.css.map",
     "static/js/2.d765e31d.chunk.js.LICENSE.txt": "/quran-react-app/static/js/2.d765e31d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.55fe8a7c.js",
     "static/css/2.1c42aa8c.chunk.css",
     "static/js/2.d765e31d.chunk.js",
-    "static/css/main.f9fc4943.chunk.css",
-    "static/js/main.6c747024.chunk.js"
+    "static/css/main.e0320e59.chunk.css",
+    "static/js/main.6a986575.chunk.js"
   ]
 }
